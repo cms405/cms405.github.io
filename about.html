@@ -1,0 +1,21 @@
+---
+layout: page
+title: About
+permalink: /about/
+nav-rank: 1
+---
+
+<ul class="post-list">
+{% for post in site.categories.course %}
+  <li>
+    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}</span>
+	<h2>
+	  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+	</h2>
+	<article class="post-content">
+    	{{ post.content }}
+  	</article>
+
+  </li>
+{% endfor %}
+</ul>
