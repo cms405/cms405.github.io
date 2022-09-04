@@ -1,0 +1,106 @@
+# Site settings
+title: "CMS.405"
+full_name: "CMS.405 – Visual Design"
+name: "Visual Design"
+email: fendt@mit.edu
+description: > # this means to ignore newlines until "baseurl:"
+  This is the collaborative site for CMS.405 - Visual Design, a Comparative Media Studies subject at MIT taught by Kurt Fendt. Students will
+  use this space to keep track of reading comments, course resources, example
+  design projects, and post updates on their assignments and design projects.
+baseurl: # the subpath of your site, e.g. /blog/
+url: "http://cms405.github.io/" # the base hostname & protocol for your site
+twitter_username: fendt
+github_username: cms405
+permalink: none
+
+# Build settings
+markdown: kramdown
+
+prose:
+  rooturl: '_posts'
+  siteurl: "http://cms405.github.io/"
+  relativeLinks: 'http://cms405.github.io/links.jsonp'
+  media: 'assets'
+  metadata:
+    _posts:
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Publish"
+      - name: "author"
+        field:
+          element: "text"
+          label: "Author"
+          placeholder: "your name, or your team's name"
+      - name: "category"
+        field:
+          element: "select"
+          label: "Category"
+          options:
+            - name: "Project Updates"
+              value: "updates"
+            - name: "Reading Commentary"
+              value: "commentary"
+            - name: "Bio"
+              value: "people"
+            - name: "Design Projects"
+              value: "ext-projects"
+            - name: "Resources"
+              value: "datasets"
+            - name: "About"
+              value: "course"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Readings"
+          placeholder: "Choose Reading(s)"
+          options:
+            - name: "Week 1 Readings"
+              value: "Week 1"
+            - name: "Week 2 Readings"
+              value: "Week 2"
+            - name: "Week 3 Readings"
+              value: "Week 3"
+            - name: "Week 4 Readings"
+              value: "Week 4"
+            - name: "Week 5 Readings"
+              value: "Week 5"
+            - name: "Week 6 Readings"
+              value: "Week 6"
+            - name: "Week 7 Readings"
+              value: "Week 7"
+            - name: "Week 8 Readings"
+              value: "Week 8"
+            - name: "Week 9 Readings"
+              value: "Week 9"
+            - name: "Week 10 Readings"
+              value: "Week 10"
+            - name: "Week 11 Readings"
+              value: "Week 11"
+            - name: "Week 12 Readings"
+              value: "Week 12"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+
+    _posts/static:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
