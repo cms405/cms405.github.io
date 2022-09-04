@@ -1,0 +1,21 @@
+---
+layout: page
+title: People
+permalink: /people/
+nav-rank: 6
+---
+
+<ul class="post-list">
+{% assign people_sorted = site.categories.people | sort: 'display-rank', 'last' %} 
+{% for post in people_sorted %}
+  <li class="bio-post">
+	<h2>
+	  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+	</h2>
+	<article class="post-content">
+    	{{ post.content }}
+  	</article>
+
+  </li>
+{% endfor %}
+</ul>

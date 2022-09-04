@@ -1,0 +1,21 @@
+---
+layout: page
+title: Commentary
+permalink: /commentary/
+nav-rank: 4
+---
+
+<ul class="post-list">
+{% for post in site.categories.commentary %}
+  <li>
+    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% for tag in post.tags %}<span class="tag-name">{{ tag }}</span>{% endfor %}</span>
+	<h2>
+	  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+	</h2>
+	<article class="post-content">
+    	{{ post.content }}
+  	</article>
+
+  </li>
+{% endfor %}
+</ul>
