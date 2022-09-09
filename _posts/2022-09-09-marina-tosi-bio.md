@@ -2,9 +2,8 @@
 layout: post
 published: true
 category: people
-title: Marina Tosi Bio
+title: Marina Tosi
 author: Marina Tosi
-tags: ''
 ---
 ![pfp.png]({{site.baseurl}}/assets/pfp.png)
 
