@@ -1,10 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: '[chxchen] Assignment 1: Expressing Your Name'
-author: ''
-tags: ''
 ---
 ![cxc_a1_fonts.png]({{site.baseurl}}/assets/cxc_a1_fonts.png)
 
