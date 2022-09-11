@@ -2,7 +2,7 @@
 layout: post
 published: false
 category: commentary
-title: UntitledWeek 2.1 Commentary - Katherine Caol Guo
+title: Week 2.1 Commentary - Katherine Caol Guo
 author: Katherine Caol Guo
 tags:
   - Week 2
