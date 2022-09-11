@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: people
 title: Rachel Chae
 author: Rachel Chae
