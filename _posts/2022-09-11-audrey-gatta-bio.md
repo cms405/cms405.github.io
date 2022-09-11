@@ -2,8 +2,9 @@
 layout: post
 published: true
 category: people
-title: audrey gatta bio
+title: Audrey Gatta
 author: Audrey Gatta
+tags: ''
 ---
 ![IMG_0052 2.jpg]({{site.baseurl}}/assets/IMG_0052 2.jpg)
 
