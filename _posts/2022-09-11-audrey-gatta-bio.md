@@ -1,10 +1,9 @@
 ---
 layout: post
 published: false
-category: updates
+category: people
 title: audrey gatta bio
-author: ''
-tags: ''
+author: Audrey Gatta
 ---
 ![IMG_0052 2.jpg]({{site.baseurl}}/assets/IMG_0052 2.jpg)
 
