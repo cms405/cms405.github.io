@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: 'Assignment 1: Different Fonts'
+author: Rachel Chae
 ---
 ![Screen Shot 2022-09-11 at 4.42.42 PM.png]({{site.baseurl}}/assets/Screen Shot 2022-09-11 at 4.42.42 PM.png)
 
