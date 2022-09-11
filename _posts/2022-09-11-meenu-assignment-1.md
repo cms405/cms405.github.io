@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: updates
-title: Meenu Assignment 1
+title: Meenu In-class Activity 1
 author: Meenu Singh
 ---
 ![ms_fonts.png]({{site.baseurl}}/assets/ms_fonts.png)
