@@ -5,7 +5,6 @@ category: updates
 title: Meenu Assignment 1
 author: Meenu Singh
 ---
-## A New Post
 ![ms_fonts.png]({{site.baseurl}}/assets/ms_fonts.png)
 
 **Alconica:** I picked this font because I was drawn to the curves in the 'n' and 'h'. They both appear very similar to the way some letters look in hindi and so I thought this was a very cool representation of my background identity.
