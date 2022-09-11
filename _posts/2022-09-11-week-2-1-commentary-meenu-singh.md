@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: updates
+category: commentary
 title: Week 2.1 Commentary - Meenu Singh
 author: Meenu Singh
 tags:
