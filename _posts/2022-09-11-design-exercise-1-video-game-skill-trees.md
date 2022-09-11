@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: 'Design Exercise 1: Video Game Skill Trees'
 author: Mikel
