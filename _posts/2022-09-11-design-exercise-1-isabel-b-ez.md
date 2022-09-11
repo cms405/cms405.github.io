@@ -5,7 +5,7 @@ category: updates
 title: Design Exercise 1 - Isabel Báez
 author: Isabel Báez
 ---
-![instas.png]({{site.baseurl}}/assets/instas.png)
+![insta-logos.jpeg]({{site.baseurl}}/assets/insta-logos.jpeg)
 
 Instagram’s newest logo design is the most simple: composed of a series of colored dots and lines. This new simplicity gives it much more versatility and allows it to become more iconic and marketable. Regardless of its few components and their simplicity, it effectively showcases the image of a camera, which is a core representation of what the application does: photo and video sharing amongst millions of people. Instagram’s camera logo is direct, to the point, and effective in showcasing the company’s purpose. 
 
