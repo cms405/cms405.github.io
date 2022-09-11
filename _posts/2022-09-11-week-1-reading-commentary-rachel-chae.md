@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Week 1 Reading Commentary (Rachel Chae)
 author: Rachel Chae
@@ -12,9 +12,3 @@ Dondis defines a line as a collection of dots so close that it becomes a visual 
 
 Color:
 Dondis describes color as perhaps the most emotional design element and considers it invaluable for universal visual communication. The three components of color—hue, saturation, and brightness—create infinitely many combinations of color. As opposed to a line, which technically doesn’t exist in nature, colors have roots in the natural environment even as they develop symbolic meanings in society. For instance, Dondis describes how red is associated with anger, danger, and warmth and became a political symbol for the communist party as well. This reminded me of traffic signs and how a red hexagon or a red light has developed into a message for “stop” and a means of visual communication.
-
-
-
-
-
-
