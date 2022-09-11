@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: people
 title: audrey gatta bio
 author: Audrey Gatta
