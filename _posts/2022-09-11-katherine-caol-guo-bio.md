@@ -2,8 +2,8 @@
 layout: post
 published: true
 category: people
-title: Katherine Caol Guo bio
+title: Katherine Caol Guo
 author: Katherine Caol Guo
 ---
 ![IMG_3284_Original.HEIC]({{site.baseurl}}/assets/IMG_3284_Original.HEIC)
-Katherine is a senior at MIT studying Art & Design and Materials Science & Engineering. In her free time, she enjoys cycling, hiking, listening to podcasts at 2x speed and shopping for plants, earrings, and postcards. 
+Katherine is a senior at MIT studying Art & Design and Materials Science & Engineering. In her free time, she enjoys cycling, hiking, listening to podcasts at 2x speed and shopping for plants, earrings, and postcards.
