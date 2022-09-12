@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: people
 title: Felix Li Bio
+author: Felix Li
 ---
 ![flower_water_cup.png]({{site.baseurl}}/assets/flower_water_cup.png)
 
