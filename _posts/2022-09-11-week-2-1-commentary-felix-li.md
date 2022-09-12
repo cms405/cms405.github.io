@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Week 2.1 Commentary - Felix Li
 author: Felix Li
