@@ -7,3 +7,4 @@ author: Felix Li
 ---
 ![Screen Shot 2022-09-12 at 12.36.22 AM.png]({{site.baseurl}}/assets/Screen Shot 2022-09-12 at 12.36.22 AM.png)
 (Didactic Video - Woody Valsuka)
+http://www.vasulka.org/archive/4-30c/AfterImageOct75(5024).pdf
