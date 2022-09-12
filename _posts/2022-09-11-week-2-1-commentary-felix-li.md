@@ -13,7 +13,7 @@ I also found Dondis’ notes on texture intriguing; she comments on how we are �
 
 Here are some references of tone and texture:
 
-￼![Screen-Shot-2020-02-05-at-2.06.55-PM.png.webp]({{site.baseurl}}/assets/Screen-Shot-2020-02-05-at-2.06.55-PM.png.webp)
+![136362-nbiiqpnekw-1581415635.jpeg]({{site.baseurl}}/assets/136362-nbiiqpnekw-1581415635.jpeg)
 (Arrival of a Train, Lumière Brothers)
 the readiness? to “accept” the monochromatic
 
