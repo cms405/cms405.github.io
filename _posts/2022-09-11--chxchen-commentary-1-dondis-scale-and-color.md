@@ -4,6 +4,8 @@ published: true
 category: commentary
 title: '[chxchen] Commentary 1: Dondis, Scale and Color'
 author: Chelsea Chen
+tags:
+  - Week 2
 ---
 Dondis's _A Primer of Visual Literacy_ covered the fundamental aspects that we can break the analysis of visual design into. Out of the ones Dondis discussed, I was most drawn to scale and color.
 
