@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: updates
+category: commentary
 title: week 2-2 commentary - meenu singh
 tags:
   - Week 2
