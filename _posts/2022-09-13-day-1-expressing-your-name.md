@@ -2,9 +2,7 @@
 layout: post
 published: true
 category: updates
-title: Day 1 - Expressing Your Name
-author: ''
-tags: ''
+title: 'Day 1 - Expressing Your Name, Hanu Park'
 ---
 Font 1 - Karla
 ![hanuk.png]({{site.baseurl}}/assets/hanuk.png)
@@ -14,4 +12,3 @@ Font 2 - Planet Kosmos
 
 Font 3 - Comic Sans
 ![hanu c.png]({{site.baseurl}}/assets/hanu c.png)
-
