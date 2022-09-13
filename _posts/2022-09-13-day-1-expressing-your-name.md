@@ -4,14 +4,14 @@ published: true
 category: updates
 title: 'Day 1 - Expressing Your Name, Hanu Park'
 ---
-Font 1 - Karla
+Font 1 - Karla  
 
-![hanuk.png]({{site.baseurl}}/assets/hanuk.png)
+![hanuk.png]({{site.baseurl}}/assets/hanuk.png)  
 
-Font 2 - Planet Kosmos
+Font 2 - Planet Kosmos  
 
-![hanu p.png]({{site.baseurl}}/assets/hanu p.png)
+![hanu p.png]({{site.baseurl}}/assets/hanu p.png)  
 
-Font 3 - Comic Sans
+Font 3 - Comic Sans  
 
-![hanu c.png]({{site.baseurl}}/assets/hanu c.png)
+![hanu c.png]({{site.baseurl}}/assets/hanu c.png)  
