@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: McCloud Readings (Chapters 2&5) - Mikel
 author: Mikel
