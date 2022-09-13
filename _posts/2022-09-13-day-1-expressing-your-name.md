@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: updates
-title: 'Day 1 - Expressing Your Name, Hanu Park'
+title: 'Week 1 - Expressing Your Name, Hanu Park'
 author: Hanu Park
 ---
 Font 1 - Karla  
