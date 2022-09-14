@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: 'Week 1 - Dondis Reading, Hanu Park'
 author: Hanu Park
@@ -14,7 +14,3 @@ I find myself always wanting to learn more about tone and reading Dondis' short 
 ## Color
 
 Similary to tone, I always enjoy reading or listening about color theory. Color associations play a vital part in most cultures, and extensive studies have been taken to research its impact in different communities. For example, communities with colorful mural artworks experience less crime than communities who don't. Similarly, communities that installed colorful murals in the community experienced decreases in crime. In short, the researchers found a theory agreeing with the Broken Window Effect on the opposite spectrum. Overall, color plays a much more meaningful role to communicate ideas in more ways than people realize, and Dondis did a nice job touching on both the social and concrete aspects of color.
-
-
-
-
