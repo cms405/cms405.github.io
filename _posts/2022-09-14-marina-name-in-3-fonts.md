@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: Marina - Name in 3 Fonts
 author: Marina Tosi
