@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: ext-projects
+category: updates
 title: '[chxchen] Self-Portrait'
 author: Chelsea Chen
 ---
