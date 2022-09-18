@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: commentary
-title: week 3-2 commentary- meenu singh
+title: week 3-1 commentary- meenu singh
 author: Meenu Singh
 tags:
   - Week 3
