@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: updates
+category: commentary
 title: 'Week 3 - Farago Reading, Hanu Park'
 tags:
   - Week 3
