@@ -1,0 +1,16 @@
+---
+layout: post
+published: true
+category: commentary
+title: Week 3.2 Commentary - Katherine Caol Guo
+author: Katherine Caol Guo
+tags:
+  - Week 3
+---
+The first thing that struck me while going through the contrasting pairs was that the examples Dondis provided were not immediately evident to me at first glance. Of course, after I reread the description again and more closely examined the images, I recognized the connections but truly, for some of the visual examples, my first thought was that the image would have been a better example for a different principle. This demonstrated to me how interconnected these principles are in visual design. For instance, boldness, sharpness, and exaggeration are linked both in my mind, but also when looking at Dondis' examples you see elements of all three principles. However, not all bold designs are necessarily sharp, for instance, the middle example under boldness is more diffuse than sharp, and the first example under subtlety is sharp (not diffuse as one would more readily assume). This led me to further ponder, how many of these principles will a "good" design incorporate. What are the most common principles we see today? (However, are these questions in themselves pointless, since it seems that the definitions of these principles are rather vague and to some extent, up to the interpretation of the individual?)
+
+**Accuracy and distortion**
+This principle made the least amount of sense to me. Is accuracy just realism, or does it have to be also true to the natural world (for instance, a photoshopped image of a 3 headed goat can be rendered to be realistic, but it is not natural - is that accuracy or distortion?). Based on Dondis' explanation of distortion "[tampering] with realism...through deviation from regular shape, and possible true form" it seems the 3 headed goat would be distortion, but then are the principles of accuracy and distortion then mainly constrained to photographic-based visual media? At what point would a drawing be a distortion rather than an abstraction?
+
+**Sharpness and diffusivity**
+I was really drawn to this pair and the examples Dondis provided in their primer. Sharpness is linked to clarity; if the image is sharp, it is easier for us, the viewer, to make out what is being represented. This kind of ties into what Dondis was talking about earlier in this chapter, her addendum on "form follows function" in addition to "form following content." If an image is sharper, we can identify the content. However, it is let's not forget that not all things being conveyed have a physical form - in fact, most ideas, emotions, and thoughts do not readily have a physical manifestation and in those cases, introducing some diffusivity could aid in bringing those points across. To me, any blurriness immediately introduces an additional level of emotions, because it is less precise, and precision connotates thinking whereas the lack of precision is more about feeling. At the same time, diffusivity does not equate just to warm, fuzzy emotions - blurriness sometimes is confusion and headache, and pain. Sharpness is not just analytical and emotionless - in fact, it can be an extremely pleasant feeling, like the crisp cool air on your face while the sun is bright overhead.  
