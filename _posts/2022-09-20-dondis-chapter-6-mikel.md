@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 category: commentary
 title: Dondis Chapter 6 - Mikel
 author: Mikel Carvajal
