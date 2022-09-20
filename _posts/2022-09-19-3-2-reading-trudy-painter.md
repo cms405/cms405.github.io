@@ -1,8 +1,11 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: commentary
 title: 3.2 Reading - Trudy Painter
+author: Trudy Painter
+tags:
+  - Week 3
 ---
 My preferred mode of creative expression is through websites. For these techniques, I couldn’t help but apply them to web design + development.
 
