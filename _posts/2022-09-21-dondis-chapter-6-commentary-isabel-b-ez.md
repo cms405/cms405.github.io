@@ -5,7 +5,7 @@ category: commentary
 title: Dondis Chapter 6 Commentary - Isabel Báez
 author: Isabel Baez
 tags:
-  - Week 4
+  - Week 3
 ---
 All the elements that Dondi’s describes in this sixth chapter rely on a set of oppositions that correlate to each other. Many assimilate to each other, and even help describe their relevance in visual works. As an example, we have the similarities between sequential and randomness, predictability and spontaneity, and consistency and variation. Although not exactly the same, we know their is randomness and variation in spoteanity. It is these type of relationships that make the categorizations not be mutually exclusive. 
 
