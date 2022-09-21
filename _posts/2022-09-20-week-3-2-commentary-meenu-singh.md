@@ -1,0 +1,14 @@
+---
+layout: post
+published: true
+category: commentary
+title: week 3-2 commentary - meenu singh
+author: Meenu Singh
+tags:
+  - Week 3
+---
+In this chapter, Dondis describes how content and form are are connected with artist and audience in visual communication. One of the lines that struck out most to me is the line "Meaning lies as much in the eye of the beholder as in the talents of the creator."  Thus far, I haven't reconciled the connection between the artist and audience, and I feel like this line really helps express why artists are so important to society. Their skill lies in the ability to communicate to us a message they put together in a medium that is almost infinitely interpretable. Dondis presents different techniques for visual communication that are used to present information in "opposite pairs". 
+
+**Economy/Intricacy:** I thought this pair of techniques was very interesting because they are two I have never heard of in the context of art. I also would never have paired these two as polar opposites, but after reading the description it makes sense. Dondis describes economy as "the presence of minimum units of visual means" and associated with the poor. It is design that is purely for function, with the purpose of getting a job done in the most simple and efficient means possible. There is nothing to detract from the goal of the design. For example, a blank line at the end of a text is quickly understood by the audience to be for a signature. On the other hand, intricacy being described as associated with power and wealth is interesting because I would not have intiially connected a design to something like wealth. However, the presence of details that serve little purpose other than to be ornamental or aesthetic is something that is often characterisitic of things like luxury or leisure time, which is a commodity that is often only available to those with power or wealth.
+
+**Singularity/Juxtaposition:** This technique appealed to me because I am personally fond of juxtaposition in pieces of writing and art. When there are two things presented together, our brains are able to draw connections and find differences between them. It is a powerful tool that is often used to draw out hidden qualities that are missed at a first glance, adding depth to a piece. However, what was interesting to me is that while I've seen juxtaposition used in pieces of writing, the technqiue of singularity is not apparent in verbal pieces. Words are not alone in novels, so I can't think of any examples at first. Meanwhile, singularity within visual communciation is powerful for similar reasons to economy and simplicity. Singularity allows the audience to focus on the main theme. Our attention is drawn to only one component of the piece and not competing with other components for focus. 
