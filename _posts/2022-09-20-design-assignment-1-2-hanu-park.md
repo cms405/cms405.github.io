@@ -6,7 +6,4 @@ title: 'Design Assignment 1.2, Hanu Park'
 author: Hanu
 ---
 ## Tentative Final
-![2022selportrait3.png]({{site.baseurl}}/assets/2022selportrait3.png)
-
-
-
+![Untitled_Artwork.png]({{site.baseurl}}/assets/Untitled_Artwork.png)
