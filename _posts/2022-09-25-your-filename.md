@@ -1,8 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
-title: ''
+title: Harrell Reading Responses
 author: Mikel
 tags:
   - Week 4
