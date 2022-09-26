@@ -31,6 +31,9 @@ Ron Allman
 
 Gesalt Psycology
 
+Allman dicusses the main laws behind Gesalt psycology. As a perceived the examples provided, I concurred with of these ideas discussed. However, the example for the Law of Similarity was not especially effective. Before the text noted it was a triangle inside the square, I simply perceived a set of mismatched elements. Nevertheless, I do not think this disproved the law, but rather demonstrated that it is exhibited at different degrees. Moreover, I would've appreciated if the visual example for the Law of Good Continuation did not have the arrows drawn out. I feel these arrows take away from determining if us, as viewers, truly follow the direction of the elements. 
+
+In all, I find it very intersting how all people's perceptions have some pre-determined set of rules. This remind's me of McCloud's comment on how we see faces in everything. The same way we are wired to follow patterns, or group elements, we are also taught to recognize prominent symbols subconciously.  
 
 
 
