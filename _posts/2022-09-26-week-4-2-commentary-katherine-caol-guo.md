@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Week 4.2 Commentary - Katherine Caol Guo
 author: Katherine Caol Guo
