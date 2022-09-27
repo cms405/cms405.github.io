@@ -7,6 +7,7 @@ author: Audrey Gatta
 tags:
   - Week 4
 ---
+
 **V.S. Ramachandran and William Hirstein’s "The Science of Art: A Neurological Theory of Aesthetic Experience”**
 
 In the introduction of V.S. Ramachandran and William Hirstein’s "The Science of Art: A Neurological Theory of Aesthetic Experience”, I was specifically intrigued by their description of the purpose of art, which they claim “is not merely to depict or represent reality — for that can be accomplished very easily with a camera — but to enhance, transcend, or indeed even to distort reality.” However, I was not quite sold on this, because art has been around long before cameras were invented. Did the purpose of art then change with the invention of the camera? How has the purpose of art evolved over time, and how will it continue to change in the future?
