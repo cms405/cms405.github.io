@@ -16,7 +16,7 @@ It's a novel idea. You don't get to pick when you post. However, the app will ru
 1. I am enjoying a meal/walk/hang out with a group of friends
 2. Everyone gets a BeReal notification
 3. People exclaim "thank GOD i got this notification now." People pose and try to get in each other's photo
-4. Everyone waits on their phone 
+4. Everyone waits on their phone to check what other people are doing
 
 A group of friends hanging out will get sucked out of real life and into this app to compare to what other people are doing. It's an insidious nuance that I'm sure the original developers didn't intend for.
 
