@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: updates
-title: [chxchen] Subversive Advertisement
+title: '[chxchen] Subversive Advertisement'
 author: Chelsea Chen
 ---
 ![cxc_d2_subversive.jpg]({{site.baseurl}}/assets/cxc_d2_subversive.jpg)
