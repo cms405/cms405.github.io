@@ -5,7 +5,7 @@ category: updates
 title: '[chxchen] Subversive Advertisement'
 author: Chelsea Chen
 ---
-![cxc_d2_subversive.jpg]({{site.baseurl}}/assets/cxc_d2_subversive.jpg)
+![cxc_d2_subversive.png]({{site.baseurl}}/assets/cxc_d2_subversive.png)
 
 For my subversive ad, I chose an app called Citizen which tracks and monitors crimes and police activity in your area in real time. This ad was inspired by a notification I got from the app a few weeks ago:
 
