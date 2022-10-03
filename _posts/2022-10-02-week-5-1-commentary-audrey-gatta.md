@@ -12,6 +12,7 @@ I have this figure of speech specifically being used in the written context, suc
 
 **Metaphor**
 Although I mainly think of metaphor in the literary context as well, this was one that I was more familiar with in the visual sense too. However, after having just read the metonymy section, I was left a little confused between the exact distinction between the two (I looked this up, and the distinction is that metaphor is more used for the substitution of two things whereas metonymy is used for the association of the two things). The example I thought of off the top of my head it the “Smoking Kills” one, where the shadow is a gun. 
+
 ![smoking kills.jpeg]({{site.baseurl}}/assets/smoking kills.jpeg)
 
 **Blending**
