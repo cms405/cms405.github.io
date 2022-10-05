@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Week 5.2 Commentary (Rachel Chae)
 author: Rachel Chae
