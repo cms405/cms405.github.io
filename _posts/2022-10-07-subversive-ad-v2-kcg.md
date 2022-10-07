@@ -5,8 +5,7 @@ category: updates
 title: Subversive ad v2 - KCG
 author: Katherine Caol Guo
 ---
-![Screen Shot 2022-10-07 at 12.28.20 AM.png]({{site.baseurl}}/assets/Screen Shot 2022-10-07 at 12.28.20 AM.png)
+![Screen Shot 2022-10-07 at 12.34.17 AM.png]({{site.baseurl}}/assets/Screen Shot 2022-10-07 at 12.34.17 AM.png)
 
 
-I wanted to create a more ominous feel for the sheer amount of cheese that is being stored and ultimately wasted, so I introduced a gradient. The gradient also serves to beldn the background behind the text with the image of the cheese caverns, too. 
-
+I wanted to create more unity between the image of the cheese cavern and the background of the text caption so I introduced the gradient. I think the gradient also introduces a menacing / threatening feel to the imagery which adds to the the idea of how vast and wasteful these cheese caverns are in addition to the government subsidies that cause them in the first place.
