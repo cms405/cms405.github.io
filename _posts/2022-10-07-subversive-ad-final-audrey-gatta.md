@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: Subversive Ad Final - Audrey Gatta
+author: Audrey Gatta
 ---
 ![Frame 4.png]({{site.baseurl}}/assets/Frame 4.png)
 
