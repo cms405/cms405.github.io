@@ -2,8 +2,10 @@
 layout: post
 published: true
 category: commentary
-title: Week 8.1 Commentary (Isabel Báez)
+title: Week 7.1 Commentary (Isabel Báez)
 author: Isabel Baez
+tags:
+  - Week 7
 ---
 McCloud dives into an analysis of how the relationship between text and pictures has changed over the years. He notes how the two have become more and more disjoint as time goes on. He highlights a fact I found interesting: that, as we grow older, we are expected to enjoy both elements separately. And that media with a close combination of text and images is perceived as child-like. This reminds me of games such as Skribblio, were users have to guess the word for what another usr is drawing. In this game, including words in your drawing is perceived as not valid or “cheating”. However, as McCloud highlights, in the early forms of writing, words were represented through abstract figures that symbolized their physical shapes. 
 
