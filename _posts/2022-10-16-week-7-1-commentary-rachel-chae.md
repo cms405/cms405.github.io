@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Week 7.1 Commentary (Rachel Chae)
 author: Rachel Chae
