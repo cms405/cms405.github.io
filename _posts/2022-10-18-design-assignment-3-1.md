@@ -5,4 +5,5 @@ category: updates
 title: 'Design Assignment 3.1, Hanu Park'
 author: Hanu
 ---
-![]({{site.baseurl}}/https://cdn.discordapp.com/attachments/931034222502756425/1031815869849935912/Untitled_Artwork.png)
+![ucantfindher.jpg]({{site.baseurl}}/assets/ucantfindher.jpg)
+
