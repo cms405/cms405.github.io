@@ -7,6 +7,6 @@ author: Hanu
 ---
 ## You Can't Find Her
 
-![ucantfindher.jpg]({{site.baseurl}}/assets/ucantfindher.jpg)
+![]({{site.baseurl}}/assets/D768005A-16A9-4F72-996B-BF20BE00E345.png)
 
 This is a draft that is based on disassociation and vulnerability.
