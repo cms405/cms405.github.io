@@ -14,6 +14,4 @@ The informalization is an interesting angle that I had not considered. Fonts, as
 
 The emotivization seems very correlated to informalization. The idea of emotion behind font seems more applicable here, although I suppose it is separate from voice tempo and/or variation. However, I think informalization is caused by emotivization. The rhythm and tempo of one’s speech most often depends on their mood and/or emotions. Therefore, the line between these two characteristics seems a bit blurry. Nevertheless, it is true that the informalization is more direct. We often perceive a person’s tone before analyzing the emotions behind it. 
 
-
-
-
+Once again, the idea of dynamicization correlates closely with that of pictorialization. Pictorialization is not only visual representations of words, but it includes movement. Dynamicization is the evolution from the static to the moving. Although I see the appeal in the advancement of staticness, I believe it is a bit drastic to state that “whatever is still static must become dynamic”. In a way, it rises this sense of urgency that, as the world moves, we move, and time moves, then everything else must also move. However, I think there is some appeal to the stillness of certain elements, even calligraphy at times. In a world where everything moves, we can find some peace in something sedimentary. 
