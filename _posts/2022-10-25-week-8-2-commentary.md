@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: commentary
-title: Week 8.2 Commentary
+title: Week 8.2 Commentary (Rachel Chae)
 author: Rachel Chae
 tags:
   - Week 8
