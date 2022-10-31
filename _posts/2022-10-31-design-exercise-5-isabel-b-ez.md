@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: updates
-title: Design Exercise 5 (Isabel Báez)
+title: Design Exercise 3 (Isabel Báez)
 author: Isabel Baez
 ---
 
