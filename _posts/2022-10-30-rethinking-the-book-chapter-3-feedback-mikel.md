@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: commentary
-title: Rethinking the Book Chapter 3 - Feedback Mikel
+title: Rethinking the Book Chapter 3 - Mikel
 author: Mikel
 tags:
   - Week 9
