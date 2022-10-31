@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: ext-projects
+category: updates
 title: 'Design Assignment 3, Hanu Park'
 author: Hanu
 ---
