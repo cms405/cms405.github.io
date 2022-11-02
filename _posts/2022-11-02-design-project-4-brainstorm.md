@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: updates
-title: Design Project 4 Brainstorm
+title: Design Project 4 Brainstorm - Audrey Gatta
 author: Audrey Gatta
 ---
 **Potential Ideas **
@@ -12,4 +12,4 @@ author: Audrey Gatta
 - Mapping restaurants that have closed in NYC (specific to Chinatown/LES?); why they've closed, public response; possible inspiration: [map of NYC restaurants that closed due to Covid](https://josephborrello.com/projects-data-blog/2021/3/21/mapping-nycs-restaurants-closed-due-to-covid)
 - Mapping movement: Strava data; aggregation of people’s running/exercising routes? GPS art?; possible inspiration: [GPS art](https://www.nytimes.com/2022/09/24/technology/gps-art-strava-running.html?searchResultPosition=2 )
 - Mapping trash: where does our trash go? 
-- Maps in politics: possible inspiration: [gerrymandering](https://www.washingtonpost.com/news/wonk/wp/2014/05/15/americas-most-gerrymandered-congressional-districts/ ) 
+- Maps in politics: possible inspiration: [gerrymandering](https://www.washingtonpost.com/news/wonk/wp/2014/05/15/americas-most-gerrymandered-congressional-districts/ )
