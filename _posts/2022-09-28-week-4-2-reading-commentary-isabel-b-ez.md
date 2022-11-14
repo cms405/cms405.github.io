@@ -4,7 +4,8 @@ published: true
 category: commentary
 title: Week 4.2 Reading Commentary (Isabel Báez)
 author: Isabel Baez
-tags: - Week 4
+tags:
+  - Week 4
 ---
 
 ### Symmetry
