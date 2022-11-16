@@ -13,4 +13,10 @@ A lot of the responses we received were super funny/interesting [as you can see 
 
 ![Screen Shot 2022-11-16 at 2.19.00 AM.png]({{site.baseurl}}/assets/Screen Shot 2022-11-16 at 2.19.00 AM.png)
 
-At each location of the map, we were thinking of incooporating a more detailed view when clicked. This would include elements from the dreams described at each location. 
+At each location of the map, we were thinking of incooporating a more detailed view when clicked. This would include elements from the dreams described at each location.
+
+![Frame 5.png]({{site.baseurl}}/assets/Frame 5.png)
+![Frame 6.png]({{site.baseurl}}/assets/Frame 6.png)
+![Frame 7.png]({{site.baseurl}}/assets/Frame 7.png)
+
+
