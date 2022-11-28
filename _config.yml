@@ -79,6 +79,10 @@ prose:
               value: "Week 11"
             - name: "Week 12 Readings"
               value: "Week 12"
+            - name: "Week 13 Readings"
+              value: "Week 13"
+            - name: "Week 14 Readings"
+              value: "Week 14"
       - name: "title"
         field:
           element: "text"
