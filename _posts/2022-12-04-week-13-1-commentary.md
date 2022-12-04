@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: updates
-title: Week 13.1 Commentary
+title: Week 13.1 Commentary (Rachel Chae)
 author: Rachel Chae
 tags:
   - Week 12
