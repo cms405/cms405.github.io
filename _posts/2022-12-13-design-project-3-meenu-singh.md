@@ -5,7 +5,7 @@ category: updates
 title: Design Project 3 - Meenu Singh
 author: Meenu Singh
 ---
-**Link to Animated Poem:**  [Guilt](https://drive.google.com/file/d/1cxoZbqdevr1xWBe7CzitytZ_ZWZgsY5v/view?usp=sharing "Guilt") 
+**Link to Animated Poem:**  [Guilt](https://www.dropbox.com/s/cazrkiahpcy6wtu/guilt_animation.mp4?dl=0 "Guilt") 
 
 I wasn't able to present in class so I have provided an explanation of some of the design choices + my thought process while animating this poem.  
 
